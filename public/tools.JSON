@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Drum",
+        "price": "1500",
+        "img": "https://northernmusic.com.au/wp-content/uploads/2018/11/cymbals-1946757_1280.jpg"
+    },
+    {
+        "name": "Guiter",
+        "price": "1500",
+        "img": "https://th.bing.com/th/id/OIP.Van_zm13uwow8n_8coZTugHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Jazz",
+        "price": "3000",
+        "img": "https://th.bing.com/th/id/R.72d4765945f88a945febdb1e90ae4497?rik=waQ4biTWjHsnkQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Classical",
+        "price": "2500",
+        "img": "https://th.bing.com/th/id/OIP.8NZtpLk8u7Pp-d-oBbRPlQHaE9?pid=ImgDet&rs=1"
+    }
+]

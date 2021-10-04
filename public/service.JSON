@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Rock",
+        "img": "https://4.bp.blogspot.com/-kilh9WU6tVY/UnruNHpIP_I/AAAAAAAACNg/f2L4zn-RMsU/s1600/rock+music.jpeg",
+        "description": "These legendary musicians , then look for similarities.",
+        "price": "3000"
+    },
+    {
+        "name": "Hip Hop",
+        "img": "https://study.com/cimages/videopreview/videopreview-full/jwq7k45ozv.jpg",
+        "description": "Rap is used popular musicals While more notable for funk than hip hop, ",
+        "price": "3000"
+    },
+    {
+        "name": "Folk Song",
+        "img": "https://2.bp.blogspot.com/-AgfKUH1HMDM/T8hYQBlHDKI/AAAAAAAAAFk/zhI50l53GKA/s1600/2010-05-31__cul6.jpg",
+        "description": " khachar bhitor auchin pakhi, jat gelo jat gelo bole, dekhna mon jhokmariay duniyadari",
+        "price": "2800"
+    },
+    {
+        "name": "Vocal Music",
+        "img": "https://th.bing.com/th/id/OIP.HOIbNNxwRqSWODdgspJVrQHaDs?pid=ImgDet&rs=1",
+        "description": "Vocal music is a type of singing performed by one or more singers.",
+        "price": "3010"
+    },
+    {
+        "name": "Reggae",
+        "img": "https://th.bing.com/th/id/R.54f9903fa2173590203e858f4aa3b893?rik=v9CXz%2bSXh%2bj5oQ&pid=ImgRaw&r=0",
+        "description": "Reggae, style of popular music that originated in Jamaica in the late 1960s.",
+        "price": "2600"
+    },
+    {
+        "name": "Electronic Music",
+        "img": "https://th.bing.com/th/id/OIP.h7Vs1rdW72J07Hti7NQR9QHaEo?pid=ImgDet&rs=1",
+        "description": "Electronic music, recording and editing on tape and involves the use of loudspeakers.",
+        "price": "2700"
+    },
+    {
+        "name": "R&B",
+        "img": "https://th.bing.com/th/id/OIP.JyuCYNFitB98EX-9ROh__wHaE1?pid=ImgDet&rs=1",
+        "description": "Urban African Americans when urbane, rocking, jazz based music.",
+        "price": "2800"
+    },
+    {
+        "name": "Soundtrack",
+        "img": "https://th.bing.com/th/id/OIP.RJDdPc2cPEjqP4BbRl1PPAHaE8?pid=ImgDet&rs=1",
+        "description": "Film scores showcase the primarily instrumental musical themes and background music from movies (Examples: The Wizard of Oz, Psycho)",
+        "price": "2650"
+    }
+]
