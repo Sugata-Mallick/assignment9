@@ -1,0 +1,9 @@
+.container{
+    grid-template-columns: 3fr;
+}
+.hf{
+    background-color: burlywood;
+}
+.ig{
+    background-color: chartreuse;
+}

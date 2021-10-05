@@ -1,3 +1,13 @@
-.rip{
-    background-color: khaki;
+
+
+.foter-phone-icon
+{
+    font-size: 70px;
+}
+
+.flex{
+    display: flex;
+    background-color: black;
+    text-align: center;
+    color: wheat;
 }
